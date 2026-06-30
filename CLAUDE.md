@@ -54,3 +54,7 @@ When adding a new LLM provider, follow this pattern: implement the relevant Lang
 Part 1 (C1–C5, complete): C1 is a `.md` file (theory), C2–C5 are `.ipynb` notebooks that build toward the RAG app incrementally. Each chapter depends on concepts from the previous one.
 
 Part 2 (C7, in progress): Advanced RAG techniques — data processing, retrieval optimization. Uses separate `requirements.txt`.
+
+## User notes
+
+The user maintains personal Obsidian notes for this course at `/mnt/e/Obsidian/obsidian/AI/动手学大模型应用开发/`. These are Markdown files organized by chapter (e.g., `C2_LLM API开发.md`). When the user asks to organize or create notes, write to this path.
